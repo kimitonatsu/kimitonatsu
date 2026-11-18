@@ -8,4 +8,4 @@ CS at Johns Hopkins ('29). Founder and lead engineer of [Moglearn](https://mogle
 
 At Moglearn I build the AI systems end to end: LLM content pipelines, eval harnesses, low-latency voice agents, and GPU batch jobs on vLLM. Moglearn's code is private. I'm happy to walk through it.
 
-Looking for a summer 2027 internship in AI or software engineering. [LinkedIn](https://www.linkedin.com/in/bill-s-214769325)
+Looking for a summer 2027 internship in AI or software engineering. [LinkedIn](https://www.linkedin.com/in/bill-sun-214769325)
